@@ -1999,8 +1999,13 @@ table {
 .plan-container {
   padding: 20px;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 20px;
+}
+@media (min-width: 1120px) {
+  .plan-container {
+    grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+  }
 }
 .box {
   padding: 20px;
@@ -2074,10 +2079,10 @@ table {
   border-radius: 4px;
   margin-top: 10px;
   width: fit-content;
-  transition:var(--main-transition);
+  transition: var(--main-transition);
 }
-.box a:hover{
-  opacity:.9;
+.box a:hover {
+  opacity: 0.9;
 }
 .free a {
   background-color: var(--green-color);
@@ -2089,7 +2094,3 @@ table {
   background-color: var(--orange-color);
 }
 /* end plan  */
-
-
-
-
