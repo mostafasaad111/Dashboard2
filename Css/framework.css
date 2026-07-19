@@ -1,0 +1,17 @@
+.b-box {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+.m-h2 {
+  margin: 0;
+}
+h2{
+  font-size: 18px;
+  font-weight:bold;
+}
+.h-p {
+  color: var(--color-777);
+  font-size: 12px;
+  margin: 5px 0 20px;
+}
