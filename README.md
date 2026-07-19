@@ -1,7 +1,7 @@
 
 # Dashboard2
 **Responsive Admin Dashboard** — Designed and developed a modern multi-page admin dashboard using **HTML5** and **CSS3**, featuring responsive layouts with Flexbox and CSS Grid, reusable UI components, smooth transitions, and clean, maintainable code optimized for different screen sizes.
-## link https://mostafasaad111.github.io/Dashboard2/
+## link [https://mostafasaad111.github.io/Dashboard2/](https://mostafasaad111.github.io/Dashboard2/)
 <img width="1917" height="915" alt="Dahboard" src="https://github.com/user-attachments/assets/388068cf-9e6b-42a0-aadf-d473b7a63799" />
 <img width="1932" height="904" alt="setting" src="https://github.com/user-attachments/assets/24d0477c-a024-42ad-9347-1a3d8dee4928" />
 <img width="1916" height="919" alt="profile" src="https://github.com/user-attachments/assets/e9090aa1-075d-409f-9cac-5e9c70c12121" />
