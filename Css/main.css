@@ -274,6 +274,11 @@ ul {
     gap: 10px;
   }
 }
+@media (min-width: 1120px) {
+  .wrapper {
+    grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+  }
+}
 .wrapper .welcome {
   background-color: white;
   border-radius: 10px;
